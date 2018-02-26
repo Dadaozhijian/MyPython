@@ -1,2 +1,2 @@
 # MyPython
-Learning Python
+我的 Python 学习资料
